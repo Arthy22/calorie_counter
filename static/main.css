@@ -1,0 +1,16 @@
+h2{color:drakgrey;
+text-align:center;
+font-size:50px;}
+
+input[type=text]{width:100%;
+padding:8px 8px;
+margin:10px 0px;}
+
+input[type=submit]{color:White;
+width:100%;
+background-color:YellowGreen;
+padding:12px 12px;
+border:none;
+border_radius:6px;}
+body{background-color:GhostGreen;
+padding:20px;}
